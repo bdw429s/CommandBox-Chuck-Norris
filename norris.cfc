@@ -17,7 +17,7 @@ component extends="commandbox.system.BaseCommand" aliases="roundhouse,chuck norr
 		'Chuck Norris is currently suing NBC, claiming Law and Order are trademarked names for his left and right legs.',
 		'Chuck Norris is the reason why Waldo is hiding.',
 		'Chuck Norris counted to infinity - twice.',
-		'There is no chin behind Chuck Norris’ beard. There is only another fist.',
+		'There is no chin behind Chuck Norris'' beard. There is only another fist.',
 		'When Chuck Norris does a pushup, he isn''t lifting himself up, he''s pushing the Earth down.',
 		'Chuck Norris is so fast, he can run around the world and punch himself in the back of the head.',
 		'Chuck Norris'' hand is the only hand that can beat a Royal Flush.',
