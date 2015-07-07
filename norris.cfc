@@ -26,7 +26,9 @@ component extends="commandbox.system.BaseCommand" aliases="roundhouse,chuck norr
 		'Chuck Norris can slam a revolving door.',
 		'Chuck Norris does not get frostbite. Chuck Norris bites frost.',
 		'Remember the Soviet Union? They decided to quit after watching a DeltaForce marathon on Satellite TV.',
-		'Contrary to popular belief, America is not a democracy, it is a Chucktatorship.'
+		'Contrary to popular belief, America is not a democracy, it is a Chucktatorship.',
+		'Chuck Norris was once bitten by a poisonous snake. after three days of excrutiating pain, the snake died.',
+		'Chuck Norris doesn''t ask if he''s worthy to hold the hammer of Thor, the hammer of Thor asks if it''s worthy to hold Chuck Norris.'
 	];
 	
 	/**
