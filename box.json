@@ -20,5 +20,5 @@
         "facts",
   		"roundhouse"
     ],
-    "ignore":["*.md"]
+    "ignore":["*.md",".gitattributes"]
 }
