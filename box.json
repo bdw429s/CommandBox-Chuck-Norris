@@ -1,6 +1,6 @@
 {
     "name":"CommandBox Chuck Norris",
-    "version":"1.1.0.0000",
+    "version":"2.0.0+0",
     "author":"Brad Wood",
     "homepage":"https://github.com/bdw429s/CommandBox-Chuck-Norris",
     "repository":{
@@ -13,12 +13,15 @@
     "shortDescription":"This is a CommandBox command called \"norris\" that will display Chuck Norris facts.",
     "description":"This is a CommandBox command called \"norris\" that will display Chuck Norris facts.",
     "instructions":"Install via CommandBox by typing 'install CommandBox-Chuck-Norris'",
-    "type":"commandbox-commands",
+    "type":"commandbox-modules",
     "keywords":[
         "Chuck",
         "Norris",
         "facts",
-  		"roundhouse"
+        "roundhouse"
     ],
-    "ignore":["*.md",".gitattributes"]
+    "ignore":[
+        "*.md",
+        ".gitattributes"
+    ]
 }
