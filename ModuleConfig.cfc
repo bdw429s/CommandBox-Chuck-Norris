@@ -1,3 +1,3 @@
 component {
-	function confiugre() {}	
+	function configure() {}	
 }
